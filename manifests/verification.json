@@ -1,0 +1,22 @@
+{
+  "scope": "Sanitized summary of one-device records; original private logs are not published.",
+  "sample_count": 1,
+  "original_android14_system": {
+    "written_and_readback_bytes": 2022539264,
+    "readback_sha256": "0c3276a30b0a45b9b87eb629d50d90fb1dafbbb8e556f0b5dd60dcc4ef22d42d",
+    "matched_source": true,
+    "gpt_unchanged": true,
+    "vbmeta_unchanged": true,
+    "userdata_and_metadata_erased_with_owner_authorization": true,
+    "android_release": "14",
+    "api_level": 34,
+    "boot_completed": "1",
+    "data_encryption": "file-based"
+  },
+  "excluded_claims": [
+    "Original boot failure root cause was not established.",
+    "Complete rollback boot was not exercised.",
+    "Bluetooth had crash records and was not repaired.",
+    "No comprehensive hardware certification or long-term stability claim."
+  ]
+}

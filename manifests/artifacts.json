@@ -1,0 +1,16 @@
+{
+  "purpose": "Historical artifacts used in this one-device case; not a current recommended release list. No binaries distributed.",
+  "gsi": {
+    "project": "TrebleDroid/treble_experimentations",
+    "release": "ci-20240508",
+    "android": "14",
+    "security_patch": "2024-05-05",
+    "filename": "system-td-arm64-ab-vanilla.img.xz",
+    "download_url": "https://github.com/TrebleDroid/treble_experimentations/releases/download/ci-20240508/system-td-arm64-ab-vanilla.img.xz",
+    "compressed_bytes": 696572976,
+    "compressed_sha256": "c2c84eab0bba67c63e9c00bc454cbbdcfe61eaf3e225153d59012678f564b85b",
+    "raw_bytes": 2022539264,
+    "raw_sha256": "0c3276a30b0a45b9b87eb629d50d90fb1dafbbb8e556f0b5dd60dcc4ef22d42d",
+    "hash_trust": "locally computed; not an independent publisher signature"
+  }
+}
